@@ -17,9 +17,4 @@
     <ProjectReference Include="..\ADOP.Entities\ADOP.Entities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="UseCases\" />
-  </ItemGroup>
-
 </Project>
