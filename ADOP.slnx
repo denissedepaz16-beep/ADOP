@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ADOP.BusinessLogic/ADOP.BusinessLogic.csproj" />
+  <Project Path="ADOP.DataAccess/ADOP.DataAccess.csproj" />
+  <Project Path="ADOP.Entities/ADOP.Entities.csproj" />
+  <Project Path="ADOP.WebApplication/ADOP.WebApplication.csproj" />
+</Solution>
